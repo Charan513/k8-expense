@@ -25,4 +25,4 @@ spec:
       containers:
       - name: nginx
         # image: joindevops/mysql:1.0.0
-        image: charan577/from:1.0.0
+        image: charan577/mysql:1.0.0
